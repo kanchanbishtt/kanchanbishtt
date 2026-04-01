@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Kanchan Bisht
 **A passionate Software Developer, dedicated to crafting engaging and user-friendly digital experiences.**
 
-Email Me 👉 ✉️ **bishtkanchan022@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ at **bishtkanchan022@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Full-stack Projects
 - 👯 **I’m open to collaborate on:** Full-stack or SaaS Projects. 
