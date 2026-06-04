@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Kanchan Bisht
-**A passionate Software Developer, dedicated to crafting engaging and user-friendly digital experiences.**
+**A passionate Full Stack Developer, dedicated to crafting engaging and user-friendly digital experiences.**
 
 Email Me 👉 ✉️ at **bishtkanchan022@gmail.com** For Collaboration/Project or Anything Else. 😊
 
