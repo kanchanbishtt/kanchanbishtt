@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kanchan Bisht</h1>
-<h3 align="center">A passionate Full Stack Developer, dedicated to crafting engaging and user-friendly digital experiences. Email Me 👉 ✉️ at bishtkanchan022@gmail.com For Collaboration/Project, Freelancing or Anything Else.😊</h3>
+<h3 align="center">A passionate Full Stack Developer, dedicated to crafting engaging and user-friendly digital experiences. Email Me 👉 ✉️ at **bishtkanchan022@gmail.com** For Collaboration/Project, Freelancing or Anything Else.😊</h3>
 
 - 🔭 I’m currently working on **Full Stack Projects.**
 
