@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kanchanbishtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanchanbishtt" height="30" width="40" /></a>
 <a href="https://instagram.com/kanchanbishtt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanchanbishtt_" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
