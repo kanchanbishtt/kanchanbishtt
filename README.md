@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects.**
 
-- 👯 I’m looking to collaborate on **Full-stack/SaaS Projects.**
+- 👯 Iml open to collaborate on **Full-stack/SaaS Projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
