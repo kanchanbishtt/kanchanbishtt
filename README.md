@@ -3,12 +3,12 @@
 
 - 🔭 I’m currently working on **Full Stack Projects.**
 
-- 👯 Im open to collaborate on **Full-stack/SaaS Projects.**
+- 👯 I'm open to collaborate on **Full-stack/SaaS Projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kanchanbishtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanchanbishtt" height="30" width="40" /></a>
-<a href="https://x.com/kanchanbishtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanchanbishtt" height="30" width="40" /></a>
+<a href="https://x.com/kanchanbishtt" target="blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><img align="center" src="https://cdn.simpleicons.org/x/000000" alt="kanchanbishtt" height="30" width="40" /></picture></a>
 <a href="https://instagram.com/kanchanbishtt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanchanbishtt_" height="30" width="40" /></a>
 
 </p>
